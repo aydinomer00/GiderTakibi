@@ -1,0 +1,72 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Ayarlar" : {
+
+    },
+    "bills" : {
+      "comment" : "Bills category"
+    },
+    "Çıkış Yap" : {
+
+    },
+    "Date: %@" : {
+
+    },
+    "Done" : {
+
+    },
+    "education" : {
+      "comment" : "Education category"
+    },
+    "entertainment" : {
+      "comment" : "Entertainment category"
+    },
+    "food" : {
+      "comment" : "Food category"
+    },
+    "groceries" : {
+      "comment" : "Groceries category"
+    },
+    "health" : {
+      "comment" : "Health category"
+    },
+    "İsim:" : {
+
+    },
+    "İsminizi girin" : {
+
+    },
+    "Kullanıcı Bilgileri" : {
+
+    },
+    "other" : {
+      "comment" : "Other category"
+    },
+    "others" : {
+      "comment" : "Others category"
+    },
+    "personal care" : {
+      "comment" : "Personal Care category"
+    },
+    "Select Location" : {
+
+    },
+    "shopping" : {
+      "comment" : "Shopping category"
+    },
+    "Toplam Harcama:" : {
+
+    },
+    "transport" : {
+      "comment" : "Transport category"
+    },
+    "travel" : {
+      "comment" : "Travel category"
+    },
+    "utilities" : {
+      "comment" : "Utilities category"
+    }
+  },
+  "version" : "1.0"
+}

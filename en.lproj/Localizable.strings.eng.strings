@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings.eng.strings
+  GiderTakibi
+
+  Created by Omer Murat Aydin on 21.10.2024.
+  
+*/
+"map" = "Map";
+"add_new_expense" = "Add New Expense";
+"amount" = "Amount";
+"category" = "Category";
+"add" = "Add";
+"sort_expenses" = "Sort Expenses";
+"amount_ascending" = "Amount: Ascending";
+"amount_descending" = "Amount: Descending";
+"expenses" = "Expenses";
+"breakdown" = "Breakdown";
+"dashboard" = "Dashboard";
+"log_in" = "Log In";
+"register" = "Register";
+"language" = "Language";
+"select_language" = "Select Language";
+"sign_out" = "Sign Out";
+"email" = "Email";
+"password" = "Password";
+"confirm_password" = "Confirm Password";
+"passwords_do_not_match" = "Passwords do not match.";
+"no_expenses_yet" = "No expenses yet.";
+"Total Expenses Format" = "Total Expenses: %.2f ₺";
+"edit_expense" = "Edit Expense";
+"cancel" = "Cancel";
+"save" = "Save";
+"Sign Out" = "Sign Out";
+"Picker" = "Picker";
+"Add Location?" = "Add Location?";
+"Select Location" = "Select Location";
+"Location Selected" = "Location Selected";
+"Done" = "Done";
+"Food" = "Food";
+"Transport" = "Transport";
+"Entertainment" = "Entertainment";
+"Bills" = "Bills";
+"Other" = "Other";
+"Select Date" = "Select Date";

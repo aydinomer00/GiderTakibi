@@ -1,0 +1,61 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+
+  },
+  "version" : "1.0"
+}
+/* Category */
+"food" = "Food";
+"transport" = "Transport";
+"entertainment" = "Entertainment";
+"bills" = "Bills";
+"other" = "Other";
+
+/* AuthenticationView */
+"log_in" = "Log In";
+"register" = "Register";
+
+/* SettingsView */
+"settings" = "Settings";
+"language" = "Language";
+"select_language" = "Select Language";
+"sign_out" = "Sign Out";
+
+/* MainTabView */
+"dashboard" = "Dashboard";
+"logs" = "Logs";
+"settings" = "Settings";
+
+/* RegisterView */
+"email" = "Email";
+"password" = "Password";
+"confirm_password" = "Confirm Password";
+"register" = "Register";
+"passwords_do_not_match" = "Passwords do not match.";
+
+/* LoginView */
+"email" = "Email";
+"password" = "Password";
+"log_in" = "Log In";
+
+/* LogsView */
+"add_new_expense" = "Add New Expense";
+"amount" = "Amount";
+"category" = "Category";
+"add" = "Add";
+"sort_expenses" = "Sort Expenses";
+"amount_ascending" = "Amount: Ascending";
+"amount_descending" = "Amount: Descending";
+"expenses" = "Expenses";
+
+/* DashboardView */
+"total_expenses_format" = "Total Expenses: %.2f ₺";
+"no_expenses_yet" = "No expenses yet.";
+"breakdown" = "Breakdown";
+"dashboard" = "Dashboard";
+
+/* EditExpenseView */
+"edit_expense" = "Edit Expense";
+"cancel" = "Cancel";
+"save" = "Save";

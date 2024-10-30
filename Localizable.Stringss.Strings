@@ -1,0 +1,61 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+
+  },
+  "version" : "1.0"
+}
+/* Category */
+"food" = "Yemek";
+"transport" = "Ulaşım";
+"entertainment" = "Eğlence";
+"bills" = "Faturalar";
+"other" = "Diğer";
+
+/* AuthenticationView */
+"log_in" = "Giriş Yap";
+"register" = "Kayıt Ol";
+
+/* SettingsView */
+"settings" = "Ayarlar";
+"language" = "Dil";
+"select_language" = "Dil Seçin";
+"sign_out" = "Çıkış Yap";
+
+/* MainTabView */
+"dashboard" = "Gösterge Paneli";
+"logs" = "Giderler";
+"settings" = "Ayarlar";
+
+/* RegisterView */
+"email" = "Email";
+"password" = "Şifre";
+"confirm_password" = "Şifreyi Onayla";
+"register" = "Kayıt Ol";
+"passwords_do_not_match" = "Şifreler eşleşmiyor.";
+
+/* LoginView */
+"email" = "Email";
+"password" = "Şifre";
+"log_in" = "Giriş Yap";
+
+/* LogsView */
+"add_new_expense" = "Yeni Harcama Ekle";
+"amount" = "Miktar";
+"category" = "Kategori";
+"add" = "Ekle";
+"sort_expenses" = "Harcamaları Sırala";
+"amount_ascending" = "Miktar: Artan";
+"amount_descending" = "Miktar: Azalan";
+"expenses" = "Harcamalar";
+
+/* DashboardView */
+"total_expenses_format" = "Toplam Harcama: %.2f ₺";
+"no_expenses_yet" = "Henüz harcama eklemediniz.";
+"breakdown" = "Ayrıntı";
+"dashboard" = "Gösterge Paneli";
+
+/* EditExpenseView */
+"edit_expense" = "Harcama Düzenle";
+"cancel" = "İptal";
+"save" = "Kaydet";

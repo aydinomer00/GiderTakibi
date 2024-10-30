@@ -1,0 +1,44 @@
+/* 
+  Localizable.string.tr.strings
+  GiderTakibi
+
+  Created by Omer Murat Aydin on 21.10.2024.
+  
+*/
+"map" = "Harita";
+"add_new_expense" = "Yeni Harcama Ekle";
+"amount" = "Miktar";
+"category" = "Kategori";
+"add" = "Ekle";
+"sort_expenses" = "Harcamaları Sırala";
+"amount_ascending" = "Miktar: Artan";
+"amount_descending" = "Miktar: Azalan";
+"expenses" = "Harcamalar";
+"breakdown" = "Ayrıntı";
+"dashboard" = "Gösterge Paneli";
+"log_in" = "Giriş Yap";
+"register" = "Kayıt Ol";
+"language" = "Dil";
+"select_language" = "Dil Seçin";
+"sign_out" = "Çıkış Yap";
+"email" = "Email";
+"password" = "Şifre";
+"confirm_password" = "Şifreyi Onayla";
+"passwords_do_not_match" = "Şifreler eşleşmiyor.";
+"no_expenses_yet" = "Henüz harcama eklemediniz.";
+"Total Expenses Format" = "Toplam Harcama: %.2f ₺";
+"edit_expense" = "Harcama Düzenle";
+"cancel" = "İptal";
+"save" = "Kaydet";
+"Sign Out" = "Çıkış Yap";
+"Picker" = "Seçici";
+"Add Location?" = "Lokasyon Ekle?";
+"Select Location" = "Lokasyon Seç";
+"Location Selected" = "Lokasyon Seçildi";
+"Done" = "Tamam";
+"Food" = "Yemek";
+"Transport" = "Ulaşım";
+"Entertainment" = "Eğlence";
+"Bills" = "Faturalar";
+"Other" = "Diğer";
+"Select Date" = "Tarih Seç";
